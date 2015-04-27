@@ -48,6 +48,7 @@ or
    - [Shireframe](https://github.com/tsx/shireframe)  
 1. Domurat Szymon.<br>
    [Serwisy internetowe oparte o *Web Components*](https://github.com/sdomurat/mgr)
+   - [Why invest in Web Components?](http://webcomponents.org/articles/interview-with-michael-bleigh/)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
