@@ -88,7 +88,7 @@ or
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
-
+1. [Watching and Understanding the Ruby 2.1 Garbage Collector at Work](http://thorstenball.com/blog/2014/03/12/watching-understanding-ruby-2.1-garbage-collector/).
 
 ## Nasza poradnia językowa…
 
