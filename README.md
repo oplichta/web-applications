@@ -43,6 +43,7 @@ or
 1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
    - [Shireframe](https://github.com/tsx/shireframe)
+   - [HTML5 <picture> Element](http://html5hub.com/html5-picture-element/)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
    - [Shireframe](https://github.com/tsx/shireframe)  
