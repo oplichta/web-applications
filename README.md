@@ -46,9 +46,12 @@ or
    - [HTML5 <picture> Element](http://html5hub.com/html5-picture-element/)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
-   - [Shireframe](https://github.com/tsx/shireframe)  
+   - [Shireframe](https://github.com/tsx/shireframe)
 1. Domurat Szymon.<br>
    [Serwisy internetowe oparte o *Web Components*](https://github.com/sdomurat/mgr)
+   - [Why invest in Web Components?](http://webcomponents.org/articles/interview-with-michael-bleigh/)
+   - [Ele](https://ele.io/) – build and share Web Components
+   - Glen Maddern. [GIFs vs Web Components](https://www.youtube.com/watch?v=i7mrZ_JsA8A)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
@@ -57,7 +60,7 @@ or
 1. Motławski Mateusz.<br>
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 1. Rybak Artur.<br>
-   [Projektowanie wydajnego API na potrzeby aplikacji mobilnych](https://github.com/wedkarz/mgr)
+   [Projektowanie RESTful API na potrzeby aplikacji mobilnych](https://github.com/wedkarz/mgr)
    - K. L. Hunter. [Irresistible APIs](http://manning.com/hunter/IrresistibleAPIs_MEAP_ch1.pdf)
 1. Zawodny Paweł.<br>
    [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
@@ -86,7 +89,7 @@ or
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
-
+1. [Watching and Understanding the Ruby 2.1 Garbage Collector at Work](http://thorstenball.com/blog/2014/03/12/watching-understanding-ruby-2.1-garbage-collector/).
 
 ## Nasza poradnia językowa…
 
