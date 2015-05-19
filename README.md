@@ -42,10 +42,9 @@ or
     [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
 1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
-   - [Shireframe](https://github.com/tsx/shireframe)
-   - [HTML5 <picture> Element](http://html5hub.com/html5-picture-element/)
+   - [Kore](https://kore.io) – an easy to use web application framework
+     for writing scalable web APIs in C
    - [Responsive Images Community Group](https://responsiveimages.org/)
-   - [Responsive Images: If you’re just changing resolutions, use srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
    - [Shireframe](https://github.com/tsx/shireframe)
@@ -64,6 +63,8 @@ or
 1. Rybak Artur.<br>
    [Projektowanie RESTful API na potrzeby aplikacji mobilnych](https://github.com/wedkarz/mgr)
    - K. L. Hunter. [Irresistible APIs](http://manning.com/hunter/IrresistibleAPIs_MEAP_ch1.pdf)
+   - [Kore](https://kore.io) – an easy to use web application framework
+     for writing scalable web APIs in C
 1. Zawodny Paweł.<br>
    [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
 
