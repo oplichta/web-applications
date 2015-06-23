@@ -85,14 +85,19 @@ or
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-### Do przeczytania
+## Git & LaTeX
 
-1. Michael Nielsen.
-   [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html).
-1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
-   – Vincent Walsh, Prof. Neuroscience UCL (interview).
-1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
-1. [Watching and Understanding the Ruby 2.1 Garbage Collector at Work](http://thorstenball.com/blog/2014/03/12/watching-understanding-ruby-2.1-garbage-collector/).
+- [ ] Prace przygotowujemy w repozytoriach prywatnych (GitHub lub Bitbucket)
+  - [Pro Git](http://git-scm.com/book/en/v2) – książka,
+  - [Git na GitHub](https://help.github.com)
+    * Git commit messages – [tbaggery](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html),
+      [good practice](https://wiki.openstack.org/wiki/GitCommitMessages)
+- [ ] [LaTeX ksiązka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska)
+- [ ] Szablon pracy licencjackiej i magisterskiej
+  - [ ] [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr)
+  - [ ] [Instalacja TeXLive](http://wbzyl.inf.ug.edu.pl/sp/texlive)
+  - [ ] [Struktura dokumentu LaTeX-owego, Bibliografia](http://wbzyl.inf.ug.edu.pl/sp/latex)
+
 
 ## Nasza poradnia językowa…
 
@@ -104,7 +109,7 @@ or
 
 * [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
 
-#### Język polski (typografia)
+### Język polski (typografia)
 
 1. [Wiszące spójniki](http://pl.wikipedia.org/wiki/Wisz%C4%85cy_sp%C3%B3jnik) –
 nazwa błędu składu tekstu polegającego na pozostawieniu na końcu wersu osamotnionego
@@ -129,7 +134,7 @@ biało-czerwony, czary-mary, Gdańsk-Osowa.
   „Mam nadzieję, że właśnie ta praca magisterska jest *wyjątkowa*”.
 -->
 
-#### Język angielski
+### Język angielski
 
 1. Nazwy pochodzące z języka angielskiego piszemy kursywą.<br>
 W dawnych czasach, kiedy nie było kursywy pisano tak:<br>
@@ -164,7 +169,7 @@ D. frameworka *Meteor*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
 Są to nazwy własne pochodzące z języka angielskiego.
 
-#### Bibliografia
+### Bibliografia
 
 1\. „Junior” po nazwisku.
 Na stronie [Rady Języka Polskiego](http://www.rjp.pan.pl/index.php?option=com_content&view=article&id=807:junior-po-nazwisku-&catid=76:opinie-o-imionach&Itemid=58)
@@ -208,3 +213,13 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 * [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
 * [The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing), [pdf](http://www.inf.fu-berlin.de/lehre/pmo/eng/ScientificWriting.pdf)
 * [Writing - Transitions - in addition, moreover, furthermore…](https://www.youtube.com/watch?v=IsDR3XEv50E)
+
+
+## TL;DR
+
+1. Michael Nielsen.
+   [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html).
+1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
+   – Vincent Walsh, Prof. Neuroscience UCL (interview).
+1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
+1. [Watching and Understanding the Ruby 2.1 Garbage Collector at Work](http://thorstenball.com/blog/2014/03/12/watching-understanding-ruby-2.1-garbage-collector/).
