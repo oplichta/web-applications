@@ -30,12 +30,17 @@ or
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-1. Lewandowska Marta.<br>
-   [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Małecki Maciej.<br>
    [Budowanie wydajnych aplikacji webowych](https://github.com/smt116/master-thesis)
    - Michael Freeman.
      [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
+   - Ilya Grigorik, [HTTP/2 is here, let's optimize](https://plus.google.com/+IlyaGrigorik/posts/csJaULHXgUm),
+     [presentation](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/edit#slide=id.p19)
+
+----
+
+1. Lewandowska Marta.<br>
+   [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Motel Mateusz.<br>
    [Technika *oplog tailing* w aplikacjach *Meteor*](https://github.com/mmotel/master-thesis)
   - Michael Freeman.
