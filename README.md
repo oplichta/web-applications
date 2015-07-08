@@ -46,7 +46,7 @@ or
   - Michael Freeman.
     [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
 1. Plichta Oskar.<br>
-   [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
+   [Budowa aplikacji modularnej do udostępniania fotografii w web 3.0](https://github.com/oplichta/magisterka)
    - [Kore](https://kore.io) – an easy to use web application framework
      for writing scalable web APIs in C
    - [Responsive Images Community Group](https://responsiveimages.org/)
